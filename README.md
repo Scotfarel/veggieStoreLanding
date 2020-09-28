@@ -1,2 +1,0 @@
-# veggieStoreLanding
-Landing
